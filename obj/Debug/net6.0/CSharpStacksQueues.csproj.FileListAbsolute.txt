@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\bin\Debug\net6.0\CSharpStacksQueues.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\bin\Debug\net6.0\CSharpStacksQueues.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\bin\Debug\net6.0\CSharpStacksQueues.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\bin\Debug\net6.0\CSharpStacksQueues.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\bin\Debug\net6.0\CSharpStacksQueues.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\refint\CSharpStacksQueues.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\CSharpStacksQueues.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpStacksQueues\obj\Debug\net6.0\ref\CSharpStacksQueues.dll
